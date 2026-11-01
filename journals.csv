@@ -1,28 +1,48 @@
-name,issn_print,issn_online,publisher,field,sjr_note,review,lang,source
-Journal of Asian Studies,0021-9118,1752-0401,Duke UP (AAS),Asian studies (flagship),Flagship of the Association for Asian Studies,Peer-reviewed,en,crossref
-positions: asia critique,1067-9847,1527-8271,Duke UP,Critical Asian studies,SJR 2025 Q1 (Literature; Visual & Performing Arts),Peer-reviewed,en,crossref
-Modern Asian Studies,0026-749X,1469-8099,Cambridge UP,Asian history & society,Leading Cambridge Asian studies journal,Peer-reviewed (double-blind verified),en,crossref
-Inter-Asia Cultural Studies,1464-9373,1469-8447,Routledge,Inter-Asia cultural studies,SJR 2025 Q2 (Cultural Studies); leading inter-Asia journal,Peer-reviewed,en,crossref
-Critical Asian Studies,1467-2715,1472-6787,Routledge,Critical Asian studies,Long-standing critical Asian studies journal,Peer-reviewed,en,crossref
-Journal of Contemporary Asia,0047-2336,1752-7554,Routledge,Political economy of Asia,Leading political-economy journal on Asia,Peer-reviewed,en,crossref
-Asian Studies Review,1035-7823,1467-8403,Routledge (ASAA),Asian studies,SJR 2025 Q1 (Cultural Studies; History),Peer-reviewed,en,crossref
-Pacific Affairs,0030-851X,1715-3379,U British Columbia,Asia & Pacific,Long-standing interdisciplinary Asia-Pacific journal,Peer-reviewed,en,crossref
-The China Quarterly,0305-7410,1468-2648,Cambridge UP (SOAS),China,SJR 2025 Q1 (Political Science; Development),Peer-reviewed,en,crossref
-The China Journal,1324-9347,1835-8535,U Chicago Press (ANU),China,Leading contemporary China journal,Peer-reviewed,en,crossref
-Modern China,0097-7004,1552-6836,SAGE,China,Leading modern China journal,Peer-reviewed,en,crossref
-Prism: Theory and Modern Chinese Literature,2578-3491,2578-3505,Duke UP,Chinese literature & culture,Leading modern Chinese literature journal,Peer-reviewed,en,crossref
-International Journal of Taiwan Studies,2468-8789,2468-8800,Brill,Taiwan,SJR 2025 Q1 (History; Visual & Performing Arts),Peer-reviewed,en,crossref
-Journal of Japanese Studies,0095-6848,1549-4721,Society for Japanese Studies,Japan,Flagship Japan studies journal,Peer-reviewed,en,crossref
-Japan Forum,0955-5803,1469-932X,Routledge (BAJS),Japan,British Association for Japanese Studies,Peer-reviewed,en,crossref
-Journal of Korean Studies,0731-1613,2158-1665,Duke UP,Korea,Flagship Korea studies journal,Peer-reviewed,en,crossref
-Journal of Southeast Asian Studies,0022-4634,1474-0680,Cambridge UP,Southeast Asia,Flagship Southeast Asia journal,Peer-reviewed,en,crossref
-South Asia: Journal of South Asian Studies,0085-6401,1479-0270,Routledge,South Asia,Leading South Asia journal,Peer-reviewed,en,crossref
-Harvard Journal of Asiatic Studies,0073-0548,1944-6454,Harvard-Yenching Institute,East Asian humanities,SJR Q4 (low citation norms in humanities) but pre-eminent East Asian humanities journal,Peer-reviewed,en,crossref
-Verge: Studies in Global Asias,2373-5058,2373-5066,U Minnesota Press,Global Asias / Asian American,Leading global Asias journal,Peer-reviewed,en,crossref
-Journal of Asian American Studies,1097-2129,1096-8598,Johns Hopkins UP (AAAS),Asian American studies,SJR 2025 Q1 (History),Peer-reviewed,en,crossref
-Amerasia Journal,0044-7471,2374-0213,Routledge (UCLA AASC),Asian American studies,SJR 2025 Q3; founding Asian American studies journal (1971),Peer-reviewed,en,crossref
-Asian Diasporic Visual Cultures and the Americas,2352-3077,2352-3085,Brill,Asian diasporic art & visual culture,Leading Asian diasporic visual culture journal,Peer-reviewed,en,crossref
-Journal of American Ethnic History,0278-5927,1936-4695,U Illinois Press,Immigration & ethnic history,Leading ethnic/immigration history journal,Peer-reviewed,en,crossref
-MELUS,0163-755X,1946-3170,Oxford UP,Multi-ethnic US literature,Leading multi-ethnic literature journal,Peer-reviewed,en,crossref
-Asian American Journal of Psychology,1948-1985,1948-1993,APA,Asian American psychology,APA journal for Asian American psychology,Peer-reviewed,en,crossref
-Modern Chinese Literature and Culture,1520-9857,2328-966X,Edinburgh UP,Chinese literature & culture,Leading modern Chinese literature & culture journal,Peer-reviewed,en,crossref
+name,issn_print,issn_online,publisher,field,sjr_note,review,lang,source,source_id
+Journal of Asian Studies,0021-9118,1752-0401,Duke UP (AAS),Asian studies (flagship),Flagship of the Association for Asian Studies,Peer-reviewed,en,crossref,
+positions: asia critique,1067-9847,1527-8271,Duke UP,Critical Asian studies,SJR 2025 Q1 (Literature; Visual & Performing Arts),Peer-reviewed,en,crossref,
+Modern Asian Studies,0026-749X,1469-8099,Cambridge UP,Asian history & society,Leading Cambridge Asian studies journal,Peer-reviewed (double-blind verified),en,crossref,
+Inter-Asia Cultural Studies,1464-9373,1469-8447,Routledge,Inter-Asia cultural studies,SJR 2025 Q2 (Cultural Studies); leading inter-Asia journal,Peer-reviewed,en,crossref,
+Critical Asian Studies,1467-2715,1472-6787,Routledge,Critical Asian studies,Long-standing critical Asian studies journal,Peer-reviewed,en,crossref,
+Journal of Contemporary Asia,0047-2336,1752-7554,Routledge,Political economy of Asia,Leading political-economy journal on Asia,Peer-reviewed,en,crossref,
+Asian Studies Review,1035-7823,1467-8403,Routledge (ASAA),Asian studies,SJR 2025 Q1 (Cultural Studies; History),Peer-reviewed,en,crossref,
+Pacific Affairs,0030-851X,1715-3379,U British Columbia,Asia & Pacific,Long-standing interdisciplinary Asia-Pacific journal,Peer-reviewed,en,crossref,
+The China Quarterly,0305-7410,1468-2648,Cambridge UP (SOAS),China,SJR 2025 Q1 (Political Science; Development),Peer-reviewed,en,crossref,
+The China Journal,1324-9347,1835-8535,U Chicago Press (ANU),China,Leading contemporary China journal,Peer-reviewed,en,crossref,
+Modern China,0097-7004,1552-6836,SAGE,China,Leading modern China journal,Peer-reviewed,en,crossref,
+Prism: Theory and Modern Chinese Literature,2578-3491,2578-3505,Duke UP,Chinese literature & culture,Leading modern Chinese literature journal,Peer-reviewed,en,crossref,
+International Journal of Taiwan Studies,2468-8789,2468-8800,Brill,Taiwan,SJR 2025 Q1 (History; Visual & Performing Arts),Peer-reviewed,en,crossref,
+Journal of Japanese Studies,0095-6848,1549-4721,Society for Japanese Studies,Japan,Flagship Japan studies journal,Peer-reviewed,en,crossref,
+Japan Forum,0955-5803,1469-932X,Routledge (BAJS),Japan,British Association for Japanese Studies,Peer-reviewed,en,crossref,
+Journal of Korean Studies,0731-1613,2158-1665,Duke UP,Korea,Flagship Korea studies journal,Peer-reviewed,en,crossref,
+Journal of Southeast Asian Studies,0022-4634,1474-0680,Cambridge UP,Southeast Asia,Flagship Southeast Asia journal,Peer-reviewed,en,crossref,
+South Asia: Journal of South Asian Studies,0085-6401,1479-0270,Routledge,South Asia,Leading South Asia journal,Peer-reviewed,en,crossref,
+Harvard Journal of Asiatic Studies,0073-0548,1944-6454,Harvard-Yenching Institute,East Asian humanities,SJR Q4 (low citation norms in humanities) but pre-eminent East Asian humanities journal,Peer-reviewed,en,crossref,
+Verge: Studies in Global Asias,2373-5058,2373-5066,U Minnesota Press,Global Asias / Asian American,Leading global Asias journal,Peer-reviewed,en,crossref,
+Journal of Asian American Studies,1097-2129,1096-8598,Johns Hopkins UP (AAAS),Asian American studies,SJR 2025 Q1 (History),Peer-reviewed,en,crossref,
+Amerasia Journal,0044-7471,2374-0213,Routledge (UCLA AASC),Asian American studies,SJR 2025 Q3; founding Asian American studies journal (1971),Peer-reviewed,en,crossref,
+Asian Diasporic Visual Cultures and the Americas,2352-3077,2352-3085,Brill,Asian diasporic art & visual culture,Leading Asian diasporic visual culture journal,Peer-reviewed,en,crossref,
+Journal of American Ethnic History,0278-5927,1936-4695,U Illinois Press,Immigration & ethnic history,Leading ethnic/immigration history journal,Peer-reviewed,en,crossref,
+MELUS,0163-755X,1946-3170,Oxford UP,Multi-ethnic US literature,Leading multi-ethnic literature journal,Peer-reviewed,en,crossref,
+Asian American Journal of Psychology,1948-1985,1948-1993,APA,Asian American psychology,APA journal for Asian American psychology,Peer-reviewed,en,crossref,
+Modern Chinese Literature and Culture,1520-9857,2328-966X,Edinburgh UP,Chinese literature & culture,Leading modern Chinese literature & culture journal,Peer-reviewed,en,crossref,
+American Historical Review,0002-8762,1937-5239,Oxford UP (AHA),History (general),Flagship of the American Historical Association,Peer-reviewed,en,crossref,
+Past & Present,0031-2746,1477-464X,Oxford UP,History (general),Leading social & cultural history journal,Peer-reviewed,en,crossref,
+Journal of American History,0021-8723,1945-2314,Oxford UP (OAH),US history / Asian American history,Flagship of the Organization of American Historians,Peer-reviewed,en,crossref,
+Comparative Studies in Society and History,0010-4175,1475-2999,Cambridge UP,Comparative history,Leading comparative history & anthropology journal,Peer-reviewed,en,crossref,
+Journal of World History,1045-6007,1527-8050,U Hawai'i Press,World history,Flagship of the World History Association,Peer-reviewed,en,crossref,
+Journal of Global History,1740-0228,1740-0236,Cambridge UP,Global history,Leading global history journal,Peer-reviewed,en,crossref,
+Pacific Historical Review,0030-8684,1533-8584,U California Press,Pacific / Asian American history,Leading journal for Pacific & Asian American history,Peer-reviewed,en,crossref,
+Late Imperial China,0884-3236,1086-3257,Johns Hopkins UP,Chinese history,Leading late imperial China history journal,Peer-reviewed,en,crossref,
+Twentieth-Century China,1521-5385,1940-5065,Johns Hopkins UP,Chinese history,Leading modern China history journal,Peer-reviewed,en,openalex,S115032874
+Journal of Chinese History,2059-1632,2059-1640,Cambridge UP,Chinese history,Leading Chinese history journal,Peer-reviewed,en,crossref,
+Monumenta Nipponica,0027-0741,1880-1390,Sophia University,Japanese history & culture,Pre-eminent Japan studies journal (1938),Peer-reviewed,en,openalex,S150866770
+Journal of the Economic and Social History of the Orient,0022-4995,1568-5209,Brill,Asian & Middle Eastern history,Leading economic & social history of Asia journal,Peer-reviewed,en,crossref,
+Indian Economic and Social History Review,0019-4646,0973-0893,SAGE,South Asian history,Leading South Asian history journal,Peer-reviewed,en,crossref,
+臺灣史研究,1022-6354,,中央研究院臺灣史研究所,臺灣史,中研院台史所季刊；THCI 核心,Peer-reviewed,zh,lawdata,843
+新史學,1023-2249,,新史學雜誌社,史學,臺灣重要史學期刊；THCI 核心,Peer-reviewed,zh,lawdata,625
+中央研究院近代史研究所集刊,1013-4883,,中央研究院近代史研究所,中國近現代史,中研院近史所季刊；THCI 核心,Peer-reviewed,zh,lawdata,974
+中央研究院歷史語言研究所集刊,1012-4195,,中央研究院歷史語言研究所,中國史、語言、考古,中研院史語所季刊；THCI 核心,Peer-reviewed,zh,lawdata,1508
+漢學研究,0254-4466,,國家圖書館漢學研究中心,漢學,THCI 核心,Peer-reviewed,zh,lawdata,984
+臺大歷史學報,1012-8514,,國立臺灣大學歷史學系,史學,THCI 核心,Peer-reviewed,zh,lawdata,627
+文化研究,1816-0514,,文化研究學會,文化研究,臺灣文化研究學會期刊；THCI 核心,Peer-reviewed,zh,lawdata,714
