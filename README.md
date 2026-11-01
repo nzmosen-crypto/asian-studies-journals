@@ -22,7 +22,7 @@ Selection: peer-reviewed; English journals are SJR Q1 or widely recognised as le
 
 ## 資料來源 / Data sources
 
-Crossref、OpenAlex（英文；摘要由 OpenAlex 補齊）；《新史學》官網 newhistory.org.tw；其他中文期刊用月旦知識庫 lawdata.com.tw 公開目錄頁（通常比期刊官網晚一期左右）。部分出版社登記期別較慢，新文章會列在「Online first」。
+Crossref、OpenAlex（英文；摘要由 OpenAlex 補齊）；《臺灣史研究》、《新史學》用期刊官網（ith.sinica.edu.tw、newhistory.org.tw）；其他中文期刊用月旦知識庫 lawdata.com.tw 公開目錄頁（通常比期刊官網晚一期左右）。部分出版社登記期別較慢，新文章會列在「Online first」。
 
 ## 修改 / Editing
 
